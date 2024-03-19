@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Camera-App-main",
+            "cwd": "Camera-App-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Camera-App-main (profile mode)",
+            "cwd": "Camera-App-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Camera-App-main (release mode)",
+            "cwd": "Camera-App-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
